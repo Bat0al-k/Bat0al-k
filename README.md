@@ -60,20 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bat0al-k&show_icons=true&theme=tokyonight" />
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bat0al-k&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
