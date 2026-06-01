@@ -1,23 +1,26 @@
-<h1 align="center">Hi 👋, I'm Al Batoal Karam</h1>
+<h1 align="center">Hey!  What's up?</h1>
 
-<h3 align="center">
-Software Engineer | MEAN & MERN Stack Developer
-</h3>
+###
 
-<p align="center">
-Passionate about building modern, responsive, and user-friendly web applications.
-</p>
+<p align="center">My name is Al batoal Karam and I'm a Software Engineer | MEAN/MERN Developer</p>
 
----
+###
 
-## 👩‍💻 About Me
+<h2 align="center">About me</h2>
 
-* 🔭 Currently working on Full Stack Web Applications
-* 🌱 Learning advanced backend architecture and cloud technologies
-* 💻 Experienced with React, Angular, Node.js, Express.js, and MongoDB
-* 🚀 Interested in building scalable and high-performance applications
-* 🎯 Goal: Become a highly skilled Full Stack Engineer
+###
 
+<br clear="both">
+
+<p align="left">✨Passionate about building modern, responsive, and user-friendly web app. <br>⚙️ Skilled in React, Angular, and Node.js with hands-on project experience.</p>
+
+###
+
+<h2 align="center">I code with</h2>
+
+###
+
+<br clear="both">
 ---
 
 ## 🛠️ Tech Stack
